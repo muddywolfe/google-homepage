@@ -1,0 +1,48 @@
+
+
+.container{
+    padding-top: 200px;
+    text-align: center;
+}
+
+#logo {
+    position: relative;
+    bottom: 50px;
+    border-style: hidden;
+    border-spacing:105px;
+    width: 100px;
+    height: 92px;
+    margin: 0 auto;
+}
+
+input {
+    position: relative;
+    bottom: 50px;
+}
+
+#searchbar {
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+
+#navbar {
+    padding: 15px;
+    margin: 0 auto;
+    position: relative;
+    top: 10px;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    opacity: 0.75;
+    text-align: right;
+}
+
+nav ul{
+margin: 0px;
+padding: 5px 0px 5px 30px;
+}
+
+nav li{
+display: inline;
+margin-left: 20px;
+}
